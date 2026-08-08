@@ -91,3 +91,6 @@ Tamil-Nadu-Vision/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
+
+🔗 **Live Demo:** The project link is available below.
+https://resolve-tn-pulse.lovable.app
