@@ -93,4 +93,4 @@ Tamil-Nadu-Vision/
 └── README.md
 
 🔗 **Live Demo:** The project link is available below.
-https://resolve-tn-pulse.lovable.app
+https://tamil-nadu-visionss.vercel.app
